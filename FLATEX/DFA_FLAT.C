@@ -22,7 +22,7 @@ int main()
 	scanf("%d",&f);
 		
 	
-	printf("\nEnter the string : \n");
+	printf("\nEnter the string A : \n");
 	scanf("%s",&s);
 	n=strlen(s);
 	i=0,j=0,l=0,st=0;
