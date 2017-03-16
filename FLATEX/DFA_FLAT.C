@@ -11,7 +11,7 @@ int main()
 	printf("\nEnter the alphabets :");
 	scanf("%s",&apb);
 	for(i=0;i<nst;i++)
-	{
+	{f
 		for(j=0;j<at;j++)
 		{
 			printf("Enter Q%d [%c] : ",i,apb[j]);
